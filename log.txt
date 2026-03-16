@@ -1,0 +1,7 @@
+--- DAY 2 LEARNING SUMMARY ---
+
+• HTML builds the structure of a webpage
+• CSS controls page design
+• JavaScript adds behavior
+• Browsers render HTML files
+• Git tracks changes and pushes them to GitHub 
