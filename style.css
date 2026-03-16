@@ -1,1 +1,9 @@
- 
+ body{
+    background-color: cornsilk;
+    font: sans-serif;
+    
+ }
+h1{
+    color: burlywood;
+    text-align: center;
+}
